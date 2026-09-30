@@ -1,7 +1,7 @@
 # Statistical Moment Steering
 
 MATLAB implementation of statistical moment steering for a nonlinear,
-coupled-oscillator system. See <arxiv link>
+coupled-oscillator system. See https://arxiv.org/abs/2609.33022.
 
 ## Requirements
 
